@@ -1,4 +1,4 @@
-Learning-JavaScript
+Learning-Tests
 ===================
 
-Learning JavaScript
+Learning Tests for different programming languages.
